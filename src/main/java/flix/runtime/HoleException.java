@@ -1,6 +1,6 @@
 package flix.runtime;
 
-public class HoleException extends RuntimeException {
+public final class HoleException extends FlixException {
 
     public HoleException(String message) {
         super(message);
