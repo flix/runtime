@@ -1,2 +1,2 @@
-# runtime
-The Flix runtime components.
+# The Flix Runtime
+
